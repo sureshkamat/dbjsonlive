@@ -1,31 +1,16 @@
 {
-  "name": "dbjsonlive",
+  "name": "json-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "json-server on render",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sureshkamat/dbjsonlive.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sureshkamat/dbjsonlive/issues"
-  },
-  "homepage": "https://github.com/sureshkamat/dbjsonlive#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "json-serve": "^0.1.0",
-    "json-server": "^0.17.3",
-    "lowdb": "^6.0.1"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
+    "json-server": "^0.17.1"
   }
 }
