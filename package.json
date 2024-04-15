@@ -1,7 +1,7 @@
 {
   "name": "json-server",
   "version": "1.0.0",
-  "description": "json-server on render",
+  "description": "json-server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
