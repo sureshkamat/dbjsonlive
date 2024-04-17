@@ -2,176 +2,43 @@
   "users": [
     {
       "id": 1,
-      "firstName": "kamat123",
-      "lastName": "satya",
-      "age": 50,
-      "gender": "male",
-      "email": "atuny0@sohu.com",
-      "phone": "+63 791 675 8914",
-      "department": "Marketing"
-    },
-    {
-      "id": 2,
-      "firstName": "Sheldon",
-      "lastName": "Quigley",
-      "age": 28,
-      "gender": "male",
-      "email": "hbingley1@plala.or.jp",
-      "phone": "+7 813 117 7139",
+      "firstName": "RandomFirstName",
+      "lastName": "RandomLastName",
+      "age": 25,
+      "gender": "Male",
+      "email": "user1@example.com",
+      "phone": "1234567890",
       "department": "Services"
     },
     {
+      "id": 2,
+      "firstName": "RandomFirstName",
+      "lastName": "RandomLastName",
+      "age": 32,
+      "gender": "Female",
+      "email": "user2@example.com",
+      "phone": "2345678901",
+      "department": "Marketing"
+    },
+    {
       "id": 3,
-      "firstName": "Terry",
-      "lastName": "Medhurst",
-      "age": 50,
-      "gender": "male",
-      "email": "atuny0@sohu.com",
-      "phone": "+63 791 675 8914",
-      "department": "Marketing"
-    },
-    {
-      "id": 5,
-      "firstName": "Terry",
-      "lastName": "Medhurst",
-      "age": 50,
-      "gender": "male",
-      "email": "atuny0@sohu.com",
-      "phone": "+63 791 675 8914",
-      "department": "Marketing"
-    },
-    {
-      "firstName": "ramesh",
-      "lastName": "a",
-      "age": "22",
+      "firstName": "RandomFirstName",
+      "lastName": "RandomLastName",
+      "age": 46,
       "gender": "Male",
-      "email": "ramesh@gmail.com",
-      "phone": "8368756788",
-      "department": "Services",
-      "company": {
-        "phone": "4"
-      },
-      "id": 6
+      "email": "user3@example.com",
+      "phone": "3456789012",
+      "department": "Business Development"
     },
     {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 7
-    },
-    {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 8
-    },
-    {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 9
-    },
-    {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 10
-    },
-    {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 11
-    },
-    {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 12
-    },
-    {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 13
-    },
-    {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 14
-    },
-    {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 15
-    },
-    {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 16
-    },
-    {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 17
-    },
-    {
-      "firstName": "satya",
-      "lastName": "singh",
-      "age": "12",
-      "gender": "Male",
-      "email": "satya@gmail.com",
-      "phone": "215445",
-      "department": "Services",
-      "id": 18
+      "id": 4,
+      "firstName": "RandomFirstName",
+      "lastName": "RandomLastName",
+      "age": 29,
+      "gender": "Female",
+      "email": "user4@example.com",
+      "phone":"3456789012",
+      "department": "Business Development"
     }
   ]
 }
